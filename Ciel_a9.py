@@ -1,10 +1,6 @@
-# Ciel Cochran
-# Section J
-# Assessment 9
-# Time: 2 hrs
-# References: Jaren Peckham
-
-
+'''
+Names: Ciel, Junee, Ari'Jaye Derritt
+'''
 def encrypt(message, shift):  # define the enccrypt function.
     encrypted_message = ""
     for char in message:
